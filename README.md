@@ -3,13 +3,6 @@
 ## Purpose
 This repository serves as the central host for all project artefacts and documentation for the SithCare system. SithCare is a mental health support web application designed to make mental healthcare more accessible, private, and user-friendly. This project is being developed for the SENG 31242 System Design Project by Group 10.
 
-## Team Members
-* SE/2022/046 - Lochithya Hettiarachchi 
-* SE/2022/005 - Anushka Dilinuwan 
-* SE/2022/010 - Adhithya Jayawardhana 
-* SE/2022/025 - Vindya Wickramathilaka 
-* SE/2022/041 - Ramesh Krishan 
-
 ## Contents Structure
 This repository contains the following mandatory directories and files:
 
