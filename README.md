@@ -20,3 +20,7 @@ To effectively view, edit, and review the contents of this repository, the follo
 * **Markdown Editor**: To view and edit `.md` documentation files.
 * **Diagramming Software**: draw.io/diagrams.net (for `.drawio` files) or PlantUML (for `.puml` files).
 * **PDF Viewer**: To review final exported documents and pitch decks.
+
+### GitHub Project Board
+
+https://github.com/orgs/SENG31242-SithCare-2026/projects/2
